@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I've decided to deprecate my secondary GitHub account (OpenBSDGuy now [OpenBSDGuy-old](https://github.com/OpenBSDGuy-old)) in favor 
+I've decided to deprecate my secondary GitHub account (@OpenBSDGuy, now [@OpenBSDGuy-old](https://github.com/OpenBSDGuy-old)) in favor 
 of my primary one ([@kasramp](https://github.com/kasramp). But do not worry.
-All the repos are transfered and nothing is lost.
+All the repos are transfered, and nothing has been lost.
 
-This easies the maintaince and helps me to focus on maintaining repos easier and more actively.
+This makes maintenance easier and helps me focus on maintaining repositories more actively.
 
 This is my updated OpenBSD setup. I will gradually add a FAQ section.
 
